@@ -1,2 +1,2 @@
-# Software-Quality-Assurance
-Practical area for Software Quality Assurance
+# Software-Quality-Assurance Development Branch
+Coding for inventory management system
